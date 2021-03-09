@@ -1,4 +1,4 @@
-# fatec
+# Fatec
 Trabalhos desenvolvidos no curso de Análise e Desenvolvimento de Sistemas
 
 Conteúdo das pastas:
